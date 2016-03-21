@@ -2,7 +2,7 @@
   "name": "kerplunk-graphdb",
   "displayName": "Graph Database",
   "description": "Provide a simple Neo4J graph database for use by other plugins",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "services": {
       "neo4j": {
